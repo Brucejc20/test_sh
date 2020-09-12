@@ -14,3 +14,6 @@ class test_allure:
         print("this is test case 03")
         assert 0
 
+    def test_04(self)
+        print("this is test case 04")
+        assert 1
