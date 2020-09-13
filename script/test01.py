@@ -12,7 +12,7 @@ class test_allure:
 
     def test_03(self):
         print("this is test case 03")
-        assert 0
+        assert 1
 
     def test_04(self):
         print("this is test case 04")
